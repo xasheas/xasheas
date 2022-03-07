@@ -4,7 +4,7 @@
 - 🌱 I currently do an internship on BMC Otomotiv A.Ş.  // Embedded Systems (Defense Industry)
 - 📫 How to reach me : 
 
-- mail: savascanemir98@gmail.com
+- mail: savascanemir@gmail.com
 
 
 <!---

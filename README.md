@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Savaş  
 - ⭐I’m Junior Software Engineer 
 - 👀 I’m interested in C , C# , Java 
-- 🌱 I currently do an internship on BMC Otomotiv A.Ş.  // Embedded Systems (Defense Industry)
 - 📫 How to reach me : 
 
 - mail: savascanemir@gmail.com
